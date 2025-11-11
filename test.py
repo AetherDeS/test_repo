@@ -1,2 +1,2 @@
-  
-print("Hello, world!")
+while True: 
+    print(eval(input("Введите выражение: ")))
